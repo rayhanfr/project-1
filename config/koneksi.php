@@ -1,5 +1,5 @@
 <?php
-//ini untuk nama server
+//ini untuk nama server bro
 $host     = 'localhost';
 //ini untuk usernamenya
 $username = 'root';
