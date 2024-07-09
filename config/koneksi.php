@@ -1,6 +1,9 @@
 <?php
+//ini untuk nama server
 $host     = 'localhost';
+//ini untuk usernamenya
 $username = 'root';
+//ini untuk passwordnya
 $password = '';
 $database = 'resto123';
 
